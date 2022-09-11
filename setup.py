@@ -5,10 +5,10 @@ with open("README.md", "r", encoding = "utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "CNN-CLASSIFEIR-TEMPLATE"
+REPO_NAME = "ComputerVision-TEMPLATE"
 AUTHOR_USER_NAME = "asit-piri"
-SRC_REPO = "CNNClassifierTemplate"
-AUTHOR_EMAIL = "asir.piri@gmail.com"
+SRC_REPO = "ComputerVision-TEMPLATE"
+AUTHOR_EMAIL = "asit.piri@gmail.com"
 
 setuptools.setup(
     name = SRC_REPO,
