@@ -1,4 +1,4 @@
-# CNN CLASSIFEIR TEMPLATE
+# ComputerVision Template
 
 ## Workflow
 
